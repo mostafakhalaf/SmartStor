@@ -1,4 +1,4 @@
-# SmoartStor
+# SmartStor
 asp.net core,entity framework and identity 
 you should use visual studion 2017 or 2019
 
